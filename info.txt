@@ -1,0 +1,4 @@
+Novel,Girl with no name,Deborah Rai,S1234,Historic
+Novel,Despicable me,Jane Joe,S245,Mystery
+Scifi,Journey to the moon,Ashley Howler,S789,10.10.2018,Rm1
+Scifi,The calculating stars,Mary Kowal,S123,No upcoming movie
